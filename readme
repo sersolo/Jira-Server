@@ -5,3 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sersolo/Jira-Server.git
 git push -u origin main
+git commit -m "GIT-1 add a read me file to the project"
